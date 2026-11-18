@@ -1,0 +1,13 @@
+# Build output
+.build/
+Cloak.app/
+build.log
+
+# SwiftPM and Xcode
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
